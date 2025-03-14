@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sathu00
+- 👀 I’m interested in creating websites and increasing my knowledge ...
+- 🌱 I’m currently learning full stack development and as well as cyber security......
+- ⚡ Fun fact: ...
+
+<!---
+sathu00/sathu00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
